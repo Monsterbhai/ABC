@@ -23,7 +23,7 @@ from AnonXMusic.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
 
-MANNU = [
+AVISHA = [
 "https://telegra.ph/file/75d8ee623feb22ccf285d.jpg",
 "https://telegra.ph/file/8bf1ae9752dc15de7e3b5.jpg",
 "https://telegra.ph/file/5e80018f0ed59ebf4f4e9.jpg",
